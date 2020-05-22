@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b6f81f65-17a7-4607-8ddc-493495a8c722" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="214" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="suitetalk-soap-java-sample-app" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="suitetalk-soap-java-sample-app" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="suitetalk-soap-java-sample-app" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+                <item name="main" type="396b929e:GradleViewContributor$SourceSetNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="suitetalk-soap-java-sample-app" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+                <item name="main" type="396b929e:GradleViewContributor$SourceSetNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="suitetalk-soap-java-sample-app" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+                <item name="test" type="396b929e:GradleViewContributor$SourceSetNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="suitetalk-soap-java-sample-app" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="suitetalk-soap-java-sample-app" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="suitetalk-soap-java-sample-app" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="verification" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="ProjectId" id="1cCWhYctiZw0HvxWOw3VyeusXTi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.SampleApplication">
+    <configuration name="SampleApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="MAIN_CLASS_NAME" value="com.netsuite.webservices.samples.SampleApplication" />
+      <module name="suitetalk-soap-java-sample-app.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.netsuite.webservices.samples.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NSJavaClient2019-2 [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="NSJavaClient2019-2 [check]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="check" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.SampleApplication" />
+      <item itemvalue="Gradle.NSJavaClient2019-2 [build]" />
+      <item itemvalue="Gradle.NSJavaClient2019-2 [check]" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SampleApplication" />
+        <item itemvalue="Gradle.NSJavaClient2019-2 [check]" />
+        <item itemvalue="Gradle.NSJavaClient2019-2 [build]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b6f81f65-17a7-4607-8ddc-493495a8c722" name="Default Changelist" comment="" />
+      <created>1590033175019</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590033175019</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="423" y="203" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590051610571">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="423" y="203" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1590051610571" />
+    <state width="1398" height="407" key="GridCell.Tab.0.bottom" timestamp="1590115876184">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="407" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1590115876184" />
+    <state width="1878" height="407" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1590054945608" />
+    <state width="1398" height="407" key="GridCell.Tab.0.center" timestamp="1590115876182">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="407" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1590115876182" />
+    <state width="1878" height="407" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1590054945606" />
+    <state width="1398" height="407" key="GridCell.Tab.0.left" timestamp="1590115876181">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="407" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1590115876181" />
+    <state width="1878" height="407" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1590054945605" />
+    <state width="1398" height="407" key="GridCell.Tab.0.right" timestamp="1590115876183">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="407" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1590115876183" />
+    <state width="1878" height="407" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1590054945607" />
+    <state x="469" y="179" key="SettingsEditor" timestamp="1590051489870">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="469" y="179" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1590051489870" />
+    <state x="623" y="193" width="673" height="693" key="find.popup" timestamp="1590054717795">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="623" y="193" width="673" height="693" key="find.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1590054717795" />
+    <state x="625" y="241" width="670" height="676" key="search.everywhere.popup" timestamp="1590054712309">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="625" y="241" width="670" height="676" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1590054712309" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/suitetalk_soap_java_sample_app$SampleApplication.ic" NAME="SampleApplication Coverage Results" MODIFIED="1590115446812" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.netsuite.webservices.samples.*</FILTER>
+    </SUITE>
+  </component>
+</project>
